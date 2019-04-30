@@ -18819,4 +18819,30 @@ Copyright (c) 2015 Daniel Eden
   }
 }
 
+/* user card */
+.userInfo {
+  margin-top: 30px;
+  height: 90%;
+}
+
+.userInfo > span {
+  display: block;
+}
+
+/* icon search  */
+.form-control-feedback-icon {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  margin-left: 90%;
+}
+
+.form-control-feedback-icon > i{
+  cursor: pointer;
+}
+
 /*# sourceMappingURL=dashboard-free.css.map */
